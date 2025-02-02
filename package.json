@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-geurim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "geurim ESlint style guide",
   "main": "index.js",
   "scripts": {
